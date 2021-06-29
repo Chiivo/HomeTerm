@@ -3,11 +3,11 @@
 */
 
 :root {
-  --body-bg: #3f3f3f;
-  --bg: #1f1f1f;
+  --body-bg: #555657;
+  --bg: #262727;
   --fg: #d4d4d4;
-  --directory: #83a06c;
-  --prompt: #83a06c;
+  --directory: #f5d1c8;
+  --prompt: #f5d1c8;
   --cursor: var(--fg);
   --listItem: var(--fg);
   --listTitle: var(--fg);
