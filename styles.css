@@ -15,7 +15,7 @@
   --tree: var(--fg);
 
   --fontSize: 12px;
-  --fontFamily: "Fira Code Nerd Font";
+  --fontFamily: "FiraCode Nerd Font";
 }
 
 body.dark {
