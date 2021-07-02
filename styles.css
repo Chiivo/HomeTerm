@@ -15,7 +15,7 @@
   --tree: var(--fg);
 
   --fontSize: 16px;
-  --fontFamily: "FiraCode Nerd Font";
+  --fontFamily: "CaskaydiaCove Nerd Font";
 }
 
 body.dark {
