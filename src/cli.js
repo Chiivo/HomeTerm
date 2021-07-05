@@ -62,12 +62,12 @@ let commandHistoryCursor = -1;
   const currentTheme = readTheme();
   theme([currentTheme]);
   // write initial prompt
-  const d = new Date();
-  const [date, time] = d.toLocaleString().split(" ");
-  textWriter(
-    `[${time.slice(0, time.length - 3)}] [${date.replace(",", "")}]`
-  );
-  writePrompt();
+  // const d = new Date();
+  // const [date, time] = d.toLocaleString().split(" ");
+  // textWriter(
+  //   `[${time.slice(0, time.length - 3)}] [${date.replace(",", "")}]`
+  // );
+  // writePrompt();
   // Setup event listener for commands
   document.addEventListener("keydown", handleKeyPresses);
   focusPrompt();
