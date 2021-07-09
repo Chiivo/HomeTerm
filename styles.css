@@ -100,7 +100,7 @@ body.nightowl {
   --tree: var(--fg);
 }
 
-bliss {
+body.bliss {
   --body-bg: #262727;
   --bg: #262727;
   --fg: #dddddd;
@@ -111,6 +111,7 @@ bliss {
   --listTitle: var(--fg);
   --link: var(--fg);
   --tree: var(--fg);
+}
 
 /**
 * Terminal Default Styling
