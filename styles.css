@@ -3,11 +3,11 @@
 */
 
 :root {
-  --body-bg: #262727;
-  --bg: #262727;
-  --fg: #dddddd;
-  --directory: #f5d1c8;
-  --prompt: #f5d1c8;
+  --body-bg: #3f3f3f;
+  --bg: #1f1f1f;
+  --fg: #d4d4d4;
+  --directory: #83a06c;
+  --prompt: #83a06c;
   --cursor: var(--fg);
   --listItem: var(--fg);
   --listTitle: var(--fg);
@@ -99,6 +99,18 @@ body.nightowl {
   --link: var(--fg);
   --tree: var(--fg);
 }
+
+bliss {
+  --body-bg: #262727;
+  --bg: #262727;
+  --fg: #dddddd;
+  --directory: #f5d1c8;
+  --prompt: #f5d1c8;
+  --cursor: var(--fg);
+  --listItem: var(--fg);
+  --listTitle: var(--fg);
+  --link: var(--fg);
+  --tree: var(--fg);
 
 /**
 * Terminal Default Styling
