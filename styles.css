@@ -101,8 +101,8 @@ body.nightowl {
 }
 
 body.bliss {
-  --body-bg: #262727;
-  --bg: #141515;
+  --body-bg: #141515;
+  --bg: #262727;
   --fg: #dddddd;
   --directory: #f5d1c8;
   --prompt: #f5d1c8;
