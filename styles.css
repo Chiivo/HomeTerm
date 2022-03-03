@@ -14,8 +14,8 @@
   --link: var(--fg);
   --tree: var(--fg);
 
-  --fontSize: 16px;
-  --fontFamily: "CaskaydiaCove Nerd Font";
+  --fontSize: 12px;
+  --fontFamily: "VictorMono Nerd Font";
 }
 
 body.dark {
