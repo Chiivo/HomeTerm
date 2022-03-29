@@ -16,6 +16,8 @@
 
   --fontSize: 16px;
   --fontFamily: "VictorMono Nerd Font";
+  --fontStyle: normal;
+  --fontWeight: 500;
 }
 
 body.dark {
@@ -129,6 +131,8 @@ body {
   justify-content: center;
   font-family: var(--fontFamily);
   font-size: var(--fontSize);
+  font-style: var(--fontStyle);
+  font-weight: var(--fontWeight);
 }
 
 #terminal {
@@ -178,6 +182,8 @@ body {
   padding: 0.5em;
   font-family: var(--fontFamily);
   font-size: var(--fontSize);
+  font-style: var(--fontStyle);
+  font-weight: var(--fontWeight);
 }
 
 #prompt-input:focus {
